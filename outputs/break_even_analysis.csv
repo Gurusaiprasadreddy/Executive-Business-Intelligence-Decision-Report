@@ -1,0 +1,4 @@
+scenario,payback_month,total_annual_benefit,total_cost_36m,total_net_benefit_36m,total_roi_pct,npv_10pct_discount_rate,break_even_annual_benefit,rec1_payback_month,rec2_payback_month,rec3_payback_month
+Conservative,12,82453.74,99699.86,119554.59,119.91,97798.3,68760.42,6,22,Never (>36m)
+Base,8,102997.42,86249.88,200722.56,232.72,168399.1,44257.67,3,12,Never (>36m)
+Optimistic,5,121792.15,77624.89,256068.11,329.88,215709.09,36920.26,3,10,29

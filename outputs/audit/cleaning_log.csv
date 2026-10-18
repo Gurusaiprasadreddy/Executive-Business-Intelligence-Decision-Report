@@ -1,0 +1,1685 @@
+order_id,field,action,original_value,corrected_value,rationale
+ORD-000663,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000090,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005503,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000248,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011358,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001509,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004857,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002022,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000092,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005647,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010896,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003571,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002645,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006408,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005099,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010583,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011812,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005706,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002475,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005769,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009914,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003211,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008561,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005831,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008501,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007489,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010582,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005465,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004037,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005423,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003352,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011571,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005154,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010620,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002351,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007030,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001885,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007809,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011103,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008400,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010104,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007875,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009179,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002106,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007384,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008685,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009102,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000176,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002672,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007050,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008540,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005604,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000632,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002821,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009579,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011022,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011089,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007132,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002785,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002254,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003112,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005007,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009341,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010074,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009890,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011006,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002339,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002268,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004522,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005410,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010573,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009916,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004176,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010175,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005860,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011280,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009369,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006345,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007827,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005336,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005095,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006714,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009683,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000038,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010408,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003362,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008210,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006070,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011188,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011366,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002394,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006058,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009064,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005747,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004756,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001282,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011013,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008846,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009254,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011347,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007393,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003322,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005822,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009189,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002021,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009380,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007723,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005952,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003287,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002907,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004072,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001734,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010825,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001292,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002587,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004345,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011807,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011669,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011167,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006822,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001429,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004935,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004746,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009913,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010488,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005364,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000554,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000192,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009000,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007483,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011722,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003243,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011652,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004143,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003751,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001075,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009603,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003675,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002678,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010034,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000864,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008535,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002347,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011288,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008645,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006962,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008487,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001761,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011117,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009621,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003568,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000578,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000624,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002726,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008811,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010590,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009320,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000095,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002116,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010429,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009860,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003060,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000414,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007156,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006607,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002837,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002353,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001478,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008884,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005080,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004107,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003273,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009382,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006880,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010302,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008982,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000068,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006377,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004513,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000067,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000308,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000602,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000886,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009963,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007825,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000998,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005480,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008788,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001858,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002122,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004930,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009766,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008054,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006322,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005069,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006357,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004666,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008468,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001430,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006441,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001390,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002569,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001108,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010793,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004161,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004657,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010431,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008988,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006350,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002278,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008436,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005744,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005630,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002085,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001101,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007839,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003577,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009899,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000695,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001530,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006699,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004530,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005488,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010232,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011140,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009873,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001138,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009216,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003640,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007247,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009109,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003503,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010081,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005136,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008271,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004095,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011946,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003499,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005753,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004197,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000922,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009577,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005322,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004476,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003146,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004597,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004071,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005281,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002790,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000753,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004445,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004096,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004237,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005869,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004837,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003831,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003046,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003159,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006500,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007202,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001707,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005949,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009832,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005927,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011319,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008371,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011008,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002903,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007452,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002675,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004007,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007535,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007569,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010516,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005451,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005449,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011801,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006196,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003686,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010725,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005063,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011995,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007524,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011437,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006975,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000411,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003878,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006148,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011177,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001011,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006877,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002472,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003991,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006793,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003866,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003438,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011749,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002505,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008107,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003434,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005899,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005857,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007889,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003475,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004753,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004291,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004827,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004048,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008500,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001412,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010051,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001594,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010005,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010933,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006177,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008873,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010965,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001904,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003489,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010463,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000784,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000940,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006596,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009818,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011455,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010098,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007066,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002982,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007367,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011153,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004887,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007235,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002701,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010069,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010996,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011710,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-010747,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004886,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005500,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000895,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011676,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006670,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008441,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003999,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004087,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009315,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001141,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011361,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008180,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007227,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006156,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001193,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006926,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006706,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006544,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001833,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008389,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008121,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009139,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008585,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001967,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009021,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005032,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011850,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011586,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005481,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003845,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007201,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007960,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007832,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000022,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008743,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002915,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003546,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-008182,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002544,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006373,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009461,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004765,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-000589,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001090,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011115,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005066,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-004039,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001344,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002450,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005989,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003351,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-009171,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-002979,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005085,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011369,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-001623,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005515,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-007325,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-011403,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-006393,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003996,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-003886,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005201,row,EXACT_DUPLICATE_REMOVED,Duplicate exact record,,Exact row duplicate removed per dedup standard
+ORD-005123,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-009741,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Art' maps deterministically to 'Office Supplies'
+ORD-005517,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-004294,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-002089,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-004314,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-007801,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-001296,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Bookcases' maps deterministically to 'Furniture'
+ORD-001148,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Phones' maps deterministically to 'Technology'
+ORD-007210,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-006036,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-011595,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Chairs' maps deterministically to 'Furniture'
+ORD-007873,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Tables' maps deterministically to 'Furniture'
+ORD-000389,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Tables' maps deterministically to 'Furniture'
+ORD-011980,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-003027,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Labels' maps deterministically to 'Office Supplies'
+ORD-004244,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-000308,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Printers' maps deterministically to 'Technology'
+ORD-011426,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-011941,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-000033,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Bookcases' maps deterministically to 'Furniture'
+ORD-002991,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Labels' maps deterministically to 'Office Supplies'
+ORD-011193,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-007322,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-001459,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Phones' maps deterministically to 'Technology'
+ORD-002885,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Chairs' maps deterministically to 'Furniture'
+ORD-009210,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Art' maps deterministically to 'Office Supplies'
+ORD-003338,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Laptops' maps deterministically to 'Technology'
+ORD-007692,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Labels' maps deterministically to 'Office Supplies'
+ORD-010291,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-007021,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Art' maps deterministically to 'Office Supplies'
+ORD-004784,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Chairs' maps deterministically to 'Furniture'
+ORD-005065,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-004491,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Laptops' maps deterministically to 'Technology'
+ORD-008403,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Laptops' maps deterministically to 'Technology'
+ORD-003642,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-009854,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-003502,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Bookcases' maps deterministically to 'Furniture'
+ORD-003855,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-007433,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Phones' maps deterministically to 'Technology'
+ORD-002215,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Art' maps deterministically to 'Office Supplies'
+ORD-001439,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-003559,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Laptops' maps deterministically to 'Technology'
+ORD-007246,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Chairs' maps deterministically to 'Furniture'
+ORD-005709,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-003057,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-006996,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Furnishings' maps deterministically to 'Furniture'
+ORD-004842,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Tables' maps deterministically to 'Furniture'
+ORD-007282,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Paper' maps deterministically to 'Office Supplies'
+ORD-010529,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Labels' maps deterministically to 'Office Supplies'
+ORD-009802,category,IMPUTE_FROM_SUBCAT,,Technology,Subcategory 'Accessories' maps deterministically to 'Technology'
+ORD-006791,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Labels' maps deterministically to 'Office Supplies'
+ORD-008742,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Tables' maps deterministically to 'Furniture'
+ORD-001557,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-004699,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Storage' maps deterministically to 'Office Supplies'
+ORD-008896,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Bookcases' maps deterministically to 'Furniture'
+ORD-004683,category,IMPUTE_FROM_SUBCAT,,Furniture,Subcategory 'Tables' maps deterministically to 'Furniture'
+ORD-004652,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Art' maps deterministically to 'Office Supplies'
+ORD-009105,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Paper' maps deterministically to 'Office Supplies'
+ORD-008103,category,IMPUTE_FROM_SUBCAT,,Office Supplies,Subcategory 'Binders' maps deterministically to 'Office Supplies'
+ORD-010839,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1878 prior mode
+ORD-009765,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-011589,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-010682,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2456 prior mode
+ORD-011832,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2746 prior mode
+ORD-001901,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0586 prior mode
+ORD-007367,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1610 prior mode
+ORD-000925,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0498 prior mode
+ORD-011127,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0394 prior mode
+ORD-000414,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2996 prior mode
+ORD-009923,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1529 prior mode
+ORD-000269,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1183 prior mode
+ORD-002228,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0573 prior mode
+ORD-011095,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C0049 prior mode
+ORD-009471,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0840 prior mode
+ORD-004060,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1981 prior mode
+ORD-001729,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2888 prior mode
+ORD-011829,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1573 prior mode
+ORD-006624,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-008572,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1071 prior mode
+ORD-005715,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1387 prior mode
+ORD-003596,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-009106,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0797 prior mode
+ORD-011158,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2090 prior mode
+ORD-003592,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0723 prior mode
+ORD-000808,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0141 prior mode
+ORD-002005,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2370 prior mode
+ORD-011821,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2964 prior mode
+ORD-009235,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2873 prior mode
+ORD-010555,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2290 prior mode
+ORD-001879,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0061 prior mode
+ORD-009104,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1945 prior mode
+ORD-000798,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1802 prior mode
+ORD-006828,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2066 prior mode
+ORD-009318,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-001910,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2883 prior mode
+ORD-006870,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0222 prior mode
+ORD-001441,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0486 prior mode
+ORD-008407,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-009048,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0804 prior mode
+ORD-003844,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0095 prior mode
+ORD-005671,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1648 prior mode
+ORD-002900,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2038 prior mode
+ORD-000698,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0098 prior mode
+ORD-009526,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0975 prior mode
+ORD-000447,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0603 prior mode
+ORD-007966,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1594 prior mode
+ORD-003711,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1810 prior mode
+ORD-009036,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-003860,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2135 prior mode
+ORD-007927,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2752 prior mode
+ORD-003193,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2214 prior mode
+ORD-000146,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0669 prior mode
+ORD-010512,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0045 prior mode
+ORD-003272,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0800 prior mode
+ORD-001205,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2402 prior mode
+ORD-010367,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2234 prior mode
+ORD-004341,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0779 prior mode
+ORD-009454,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0613 prior mode
+ORD-004351,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2989 prior mode
+ORD-011059,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C0017 prior mode
+ORD-001714,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1203 prior mode
+ORD-002351,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1306 prior mode
+ORD-007919,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-005939,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1256 prior mode
+ORD-009006,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0765 prior mode
+ORD-007957,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0397 prior mode
+ORD-005294,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1300 prior mode
+ORD-008959,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2817 prior mode
+ORD-004915,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1282 prior mode
+ORD-006514,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1617 prior mode
+ORD-000746,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1052 prior mode
+ORD-003978,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1632 prior mode
+ORD-010089,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0442 prior mode
+ORD-010692,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1603 prior mode
+ORD-010068,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-003781,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2486 prior mode
+ORD-007425,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1611 prior mode
+ORD-005193,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1807 prior mode
+ORD-006154,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2643 prior mode
+ORD-011487,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2005 prior mode
+ORD-011779,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1085 prior mode
+ORD-000716,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1076 prior mode
+ORD-003332,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2038 prior mode
+ORD-006250,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0655 prior mode
+ORD-008478,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2834 prior mode
+ORD-006530,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1693 prior mode
+ORD-002330,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1980 prior mode
+ORD-005342,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0994 prior mode
+ORD-002164,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1710 prior mode
+ORD-003935,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1526 prior mode
+ORD-005284,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0095 prior mode
+ORD-010478,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2694 prior mode
+ORD-003927,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1995 prior mode
+ORD-000347,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1147 prior mode
+ORD-011701,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2212 prior mode
+ORD-007899,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1976 prior mode
+ORD-004666,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1657 prior mode
+ORD-001927,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2559 prior mode
+ORD-009087,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2873 prior mode
+ORD-003190,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1092 prior mode
+ORD-007021,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2154 prior mode
+ORD-004451,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1590 prior mode
+ORD-005335,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1676 prior mode
+ORD-004747,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2482 prior mode
+ORD-005321,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1217 prior mode
+ORD-007106,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1928 prior mode
+ORD-005854,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2496 prior mode
+ORD-006045,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2642 prior mode
+ORD-010280,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2562 prior mode
+ORD-001315,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2987 prior mode
+ORD-006987,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1597 prior mode
+ORD-000396,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0411 prior mode
+ORD-011869,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1696 prior mode
+ORD-003826,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2994 prior mode
+ORD-010193,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0815 prior mode
+ORD-009862,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2248 prior mode
+ORD-009260,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2978 prior mode
+ORD-003374,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2642 prior mode
+ORD-001134,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0458 prior mode
+ORD-003615,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1371 prior mode
+ORD-000714,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2829 prior mode
+ORD-006724,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1877 prior mode
+ORD-011748,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0493 prior mode
+ORD-008830,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1133 prior mode
+ORD-000523,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1935 prior mode
+ORD-002979,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1292 prior mode
+ORD-001043,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2996 prior mode
+ORD-010970,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1102 prior mode
+ORD-003884,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2149 prior mode
+ORD-010179,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0613 prior mode
+ORD-001736,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1232 prior mode
+ORD-000401,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2439 prior mode
+ORD-003898,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2596 prior mode
+ORD-006432,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0342 prior mode
+ORD-006955,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0755 prior mode
+ORD-005557,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1294 prior mode
+ORD-002029,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1937 prior mode
+ORD-004887,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1725 prior mode
+ORD-010983,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2112 prior mode
+ORD-002775,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1838 prior mode
+ORD-011990,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1715 prior mode
+ORD-004394,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0067 prior mode
+ORD-003356,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2698 prior mode
+ORD-007847,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2196 prior mode
+ORD-002734,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0239 prior mode
+ORD-002619,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1361 prior mode
+ORD-006448,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1328 prior mode
+ORD-010368,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1386 prior mode
+ORD-011688,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0061 prior mode
+ORD-010996,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2424 prior mode
+ORD-007573,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2710 prior mode
+ORD-002105,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0052 prior mode
+ORD-007344,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2004 prior mode
+ORD-003558,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2108 prior mode
+ORD-001132,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2987 prior mode
+ORD-010115,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0840 prior mode
+ORD-005720,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2574 prior mode
+ORD-007442,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1614 prior mode
+ORD-000968,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C2439 prior mode
+ORD-009110,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2141 prior mode
+ORD-011754,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0588 prior mode
+ORD-011444,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0561 prior mode
+ORD-004477,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0950 prior mode
+ORD-001866,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0061 prior mode
+ORD-000263,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2800 prior mode
+ORD-000241,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1183 prior mode
+ORD-006635,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2263 prior mode
+ORD-003242,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2164 prior mode
+ORD-004868,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2986 prior mode
+ORD-011472,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2040 prior mode
+ORD-005821,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2265 prior mode
+ORD-008142,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2460 prior mode
+ORD-003111,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2066 prior mode
+ORD-007997,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1616 prior mode
+ORD-008980,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1318 prior mode
+ORD-001877,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-005759,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2636 prior mode
+ORD-003429,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0910 prior mode
+ORD-010560,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2248 prior mode
+ORD-007737,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1575 prior mode
+ORD-008342,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1693 prior mode
+ORD-001269,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1547 prior mode
+ORD-003915,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2007 prior mode
+ORD-006957,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0775 prior mode
+ORD-002610,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1890 prior mode
+ORD-011998,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2092 prior mode
+ORD-005530,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1282 prior mode
+ORD-003108,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2853 prior mode
+ORD-006272,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1835 prior mode
+ORD-000609,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0684 prior mode
+ORD-002801,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1586 prior mode
+ORD-010235,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1616 prior mode
+ORD-005416,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1292 prior mode
+ORD-000324,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0145 prior mode
+ORD-004925,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0750 prior mode
+ORD-001033,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2570 prior mode
+ORD-004389,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1954 prior mode
+ORD-008693,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1804 prior mode
+ORD-008024,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2112 prior mode
+ORD-003667,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1516 prior mode
+ORD-006599,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0512 prior mode
+ORD-006143,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-002264,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0573 prior mode
+ORD-009976,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2157 prior mode
+ORD-004609,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0869 prior mode
+ORD-003709,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2324 prior mode
+ORD-008993,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0246 prior mode
+ORD-003452,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0950 prior mode
+ORD-002309,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0631 prior mode
+ORD-008264,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2044 prior mode
+ORD-006973,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0656 prior mode
+ORD-007137,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2276 prior mode
+ORD-001585,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2888 prior mode
+ORD-009724,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1516 prior mode
+ORD-000694,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0306 prior mode
+ORD-006843,region,IMPUTE_CUSTOMER_MODE,,Central,Imputed from customer C1919 prior mode
+ORD-004483,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1548 prior mode
+ORD-011574,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2332 prior mode
+ORD-000225,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0813 prior mode
+ORD-002258,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2785 prior mode
+ORD-008680,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0765 prior mode
+ORD-002355,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1392 prior mode
+ORD-001359,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C2857 prior mode
+ORD-009764,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C0361 prior mode
+ORD-010931,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0323 prior mode
+ORD-000644,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C1088 prior mode
+ORD-004905,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-004748,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1491 prior mode
+ORD-010707,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1963 prior mode
+ORD-006509,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C1711 prior mode
+ORD-007381,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C2044 prior mode
+ORD-010490,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C0760 prior mode
+ORD-005407,region,IMPUTE_CUSTOMER_MODE,,South,Imputed from customer C0535 prior mode
+ORD-004608,region,IMPUTE_CUSTOMER_MODE,,North,Imputed from customer C1462 prior mode
+ORD-003619,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C2932 prior mode
+ORD-003251,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C2681 prior mode
+ORD-003959,region,IMPUTE_CUSTOMER_MODE,,West,Imputed from customer C1725 prior mode
+ORD-011349,region,IMPUTE_CUSTOMER_MODE,,East,Imputed from customer C0726 prior mode
+ORD-008578,region,IMPUTE_GLOBAL_MODE_FALLBACK,,West,Single-order or missing history customer; fell back to global mode 'West'
+ORD-002961,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1212 prior mode
+ORD-004331,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0290 prior mode
+ORD-002559,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2946 prior mode
+ORD-009946,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0691 prior mode
+ORD-004545,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1617 prior mode
+ORD-000725,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1076 prior mode
+ORD-004356,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1693 prior mode
+ORD-000087,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0108 prior mode
+ORD-001254,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2399 prior mode
+ORD-004571,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0684 prior mode
+ORD-000864,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2844 prior mode
+ORD-005615,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2527 prior mode
+ORD-008499,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1505 prior mode
+ORD-008882,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2109 prior mode
+ORD-007944,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2622 prior mode
+ORD-009182,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0792 prior mode
+ORD-011739,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0664 prior mode
+ORD-004409,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0676 prior mode
+ORD-000608,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1147 prior mode
+ORD-007050,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1610 prior mode
+ORD-005449,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1816 prior mode
+ORD-007947,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1212 prior mode
+ORD-006387,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2496 prior mode
+ORD-001317,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2439 prior mode
+ORD-004292,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-005808,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0663 prior mode
+ORD-009232,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0464 prior mode
+ORD-000753,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1291 prior mode
+ORD-003329,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2805 prior mode
+ORD-010679,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2332 prior mode
+ORD-007161,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-010272,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1621 prior mode
+ORD-000686,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1802 prior mode
+ORD-005740,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0342 prior mode
+ORD-000097,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1670 prior mode
+ORD-006321,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0655 prior mode
+ORD-009155,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2658 prior mode
+ORD-009241,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0026 prior mode
+ORD-004349,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0910 prior mode
+ORD-005764,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-000974,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2439 prior mode
+ORD-003874,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0893 prior mode
+ORD-004353,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1476 prior mode
+ORD-005781,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0251 prior mode
+ORD-005193,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1807 prior mode
+ORD-002837,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1006 prior mode
+ORD-002705,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1609 prior mode
+ORD-003373,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0067 prior mode
+ORD-002509,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1538 prior mode
+ORD-002289,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2824 prior mode
+ORD-003405,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1938 prior mode
+ORD-006124,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2660 prior mode
+ORD-008052,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1584 prior mode
+ORD-000605,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2888 prior mode
+ORD-008084,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1877 prior mode
+ORD-005630,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1110 prior mode
+ORD-005007,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1757 prior mode
+ORD-005126,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1516 prior mode
+ORD-004020,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1721 prior mode
+ORD-011944,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1878 prior mode
+ORD-006057,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2196 prior mode
+ORD-008999,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1626 prior mode
+ORD-002846,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1641 prior mode
+ORD-006801,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0414 prior mode
+ORD-000333,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0145 prior mode
+ORD-007021,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2154 prior mode
+ORD-005654,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0306 prior mode
+ORD-006486,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0624 prior mode
+ORD-000985,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0861 prior mode
+ORD-007892,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1212 prior mode
+ORD-007017,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1572 prior mode
+ORD-009111,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1693 prior mode
+ORD-011678,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2410 prior mode
+ORD-000807,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0089 prior mode
+ORD-008844,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0684 prior mode
+ORD-005438,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2924 prior mode
+ORD-006619,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1105 prior mode
+ORD-002575,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2324 prior mode
+ORD-002640,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2064 prior mode
+ORD-009559,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-000061,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2503 prior mode
+ORD-008385,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2088 prior mode
+ORD-004780,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-002348,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2412 prior mode
+ORD-002772,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1896 prior mode
+ORD-011308,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2556 prior mode
+ORD-007678,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2603 prior mode
+ORD-001614,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1632 prior mode
+ORD-006273,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1986 prior mode
+ORD-003181,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2063 prior mode
+ORD-009091,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1564 prior mode
+ORD-002245,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0115 prior mode
+ORD-011232,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0541 prior mode
+ORD-000044,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2503 prior mode
+ORD-007580,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-005592,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1818 prior mode
+ORD-003755,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2044 prior mode
+ORD-005094,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0915 prior mode
+ORD-005726,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0551 prior mode
+ORD-010054,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1437 prior mode
+ORD-004647,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2989 prior mode
+ORD-003403,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0950 prior mode
+ORD-011093,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1621 prior mode
+ORD-011402,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2305 prior mode
+ORD-001952,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1731 prior mode
+ORD-000275,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2960 prior mode
+ORD-000417,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1814 prior mode
+ORD-009075,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2207 prior mode
+ORD-010368,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1386 prior mode
+ORD-005066,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0951 prior mode
+ORD-005203,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0799 prior mode
+ORD-003286,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2398 prior mode
+ORD-000900,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2807 prior mode
+ORD-010849,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1878 prior mode
+ORD-007358,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2218 prior mode
+ORD-008711,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1217 prior mode
+ORD-008075,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2068 prior mode
+ORD-003057,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0109 prior mode
+ORD-009888,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1969 prior mode
+ORD-003505,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1852 prior mode
+ORD-007853,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2894 prior mode
+ORD-006361,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0246 prior mode
+ORD-003975,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2989 prior mode
+ORD-007679,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2680 prior mode
+ORD-009863,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1042 prior mode
+ORD-006484,segment,IMPUTE_GLOBAL_MODE_FALLBACK,,Consumer,Single-order or missing history customer; fell back to global mode 'Consumer'
+ORD-011650,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1991 prior mode
+ORD-004283,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2603 prior mode
+ORD-000984,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2118 prior mode
+ORD-004250,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2660 prior mode
+ORD-005313,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2093 prior mode
+ORD-010885,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2436 prior mode
+ORD-005601,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1632 prior mode
+ORD-002503,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0684 prior mode
+ORD-002103,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0684 prior mode
+ORD-011196,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2730 prior mode
+ORD-011470,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1612 prior mode
+ORD-008016,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2044 prior mode
+ORD-005225,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2422 prior mode
+ORD-004196,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0860 prior mode
+ORD-004904,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2143 prior mode
+ORD-008488,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0044 prior mode
+ORD-004612,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1276 prior mode
+ORD-005666,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2411 prior mode
+ORD-011163,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2491 prior mode
+ORD-004635,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2771 prior mode
+ORD-003486,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2002 prior mode
+ORD-006333,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0335 prior mode
+ORD-001805,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2888 prior mode
+ORD-011157,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2701 prior mode
+ORD-001666,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1692 prior mode
+ORD-002880,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0158 prior mode
+ORD-000408,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1388 prior mode
+ORD-001498,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1559 prior mode
+ORD-008993,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0246 prior mode
+ORD-002350,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0897 prior mode
+ORD-000855,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2503 prior mode
+ORD-000170,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2905 prior mode
+ORD-007622,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2897 prior mode
+ORD-004642,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1725 prior mode
+ORD-001545,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1960 prior mode
+ORD-000851,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0915 prior mode
+ORD-010865,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0535 prior mode
+ORD-004576,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2196 prior mode
+ORD-000817,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0684 prior mode
+ORD-003041,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0498 prior mode
+ORD-000952,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0145 prior mode
+ORD-009077,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C2331 prior mode
+ORD-003065,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0098 prior mode
+ORD-009132,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1521 prior mode
+ORD-009275,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0264 prior mode
+ORD-003110,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C0272 prior mode
+ORD-001718,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2286 prior mode
+ORD-003289,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C0967 prior mode
+ORD-002753,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C1006 prior mode
+ORD-008720,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C2068 prior mode
+ORD-011780,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C1293 prior mode
+ORD-011725,segment,IMPUTE_CUSTOMER_MODE,,Corporate,Imputed from customer C0122 prior mode
+ORD-008528,segment,IMPUTE_CUSTOMER_MODE,,Consumer,Imputed from customer C2090 prior mode
+ORD-008601,segment,IMPUTE_CUSTOMER_MODE,,Small Business,Imputed from customer C1143 prior mode
+ORD-005123,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-009741,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000309,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-002347,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-001239,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007291,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001431,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-000252,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011900,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-007361,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011750,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-001375,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000495,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-011016,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-002643,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-005706,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006845,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-004626,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-011221,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004686,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-002142,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010756,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010441,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-001833,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011288,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004473,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-006411,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006726,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-000624,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-002970,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-001671,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-002525,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-009657,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000171,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-009796,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006988,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-004409,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-001520,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000772,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006615,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010521,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004534,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011063,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-006563,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-007733,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-010749,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-003844,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-002530,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-004463,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004186,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-006260,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000698,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011563,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008035,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-001248,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-002829,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-005482,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006034,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-000686,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-011770,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-004906,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009570,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-002538,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-006536,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011180,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001962,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008688,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-010129,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010165,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000980,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-010840,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-007921,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-007058,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-003103,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011941,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-008393,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-002951,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-010968,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-008241,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-002622,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-000702,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011291,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-002874,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-001751,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-007774,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-011802,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000380,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-011984,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-010145,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-000642,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-006603,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-001757,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011121,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-003396,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-000974,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-002360,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-008508,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-005924,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-002377,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-011427,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009113,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-000578,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-006054,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-001112,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-011613,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-000748,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-005280,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006450,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000300,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-005705,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001918,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-002572,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-010609,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001523,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-003633,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-002289,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-001588,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009792,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009076,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-007981,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-011492,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-005876,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-000483,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005078,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-005881,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004260,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-009719,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-006592,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-004372,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-005516,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-002502,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001926,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006144,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009930,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001741,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006196,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-008070,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-009424,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-004666,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007196,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007963,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-008991,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-002447,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005229,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-003219,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-004038,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-008253,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-001488,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-006251,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-008547,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-000209,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-004676,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-007504,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007131,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-002571,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007226,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007174,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-009475,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-003123,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-008967,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-005929,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-001315,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-007561,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-005880,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011384,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000243,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004399,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004713,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008519,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005042,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007572,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003951,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-006327,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-002575,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006654,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-000398,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008850,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-009197,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008831,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-001201,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-003573,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006222,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-003312,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-005798,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009522,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-005689,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001516,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007087,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-008293,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-005600,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001546,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-008909,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-007567,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006208,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-010428,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-008406,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011461,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007689,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011279,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000208,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-005710,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-007512,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007015,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-000510,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007746,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-003284,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009701,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-003549,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010380,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-001716,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-004042,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009073,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000417,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006172,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-009839,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-004694,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007707,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-002118,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004025,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009671,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008888,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-010210,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-000107,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-002545,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003314,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-001469,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008878,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-002715,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-008718,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-009117,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-009783,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-011816,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-006739,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-008921,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008971,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006937,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003635,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-003993,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011677,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-002069,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-004426,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-001024,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-008111,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-004295,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011348,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-011030,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-011128,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001744,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008285,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009234,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-001078,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008160,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008854,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005313,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-006145,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-009300,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000610,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003587,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-001109,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004773,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006104,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006957,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009359,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-010772,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-006889,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-011998,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007806,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009479,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-011163,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-001504,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-010698,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-004318,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-003833,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-001978,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007906,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-009881,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-007073,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-002120,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-004894,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-000245,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-010484,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-007155,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003297,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-006664,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.4,Calculated 1 - sales/(qty*price) and snapped to tier 0.40
+ORD-006143,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000637,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-010933,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004538,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-007222,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000468,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-011172,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007305,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009040,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-008484,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-003709,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005328,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-010734,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006800,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-004633,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-007959,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-001983,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-003998,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-006562,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-006289,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009941,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-010012,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-000849,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-006353,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-011665,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008965,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-003466,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-003925,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-005546,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-006216,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-006956,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009363,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-010418,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.5,Calculated 1 - sales/(qty*price) and snapped to tier 0.50
+ORD-011544,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-005146,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-005718,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-011574,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-002947,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-001322,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-006959,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-003449,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-000055,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006978,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-010834,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-003769,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-005289,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.15,Calculated 1 - sales/(qty*price) and snapped to tier 0.15
+ORD-009553,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-011295,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.1,Calculated 1 - sales/(qty*price) and snapped to tier 0.10
+ORD-011453,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009896,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-000008,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006767,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-007281,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-007270,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-005581,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-003580,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-006069,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.35,Calculated 1 - sales/(qty*price) and snapped to tier 0.35
+ORD-008637,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-004006,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-001037,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-003796,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-000001,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-009942,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-010258,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-001428,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-003619,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-008212,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-008457,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.3,Calculated 1 - sales/(qty*price) and snapped to tier 0.30
+ORD-004257,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.0,Calculated 1 - sales/(qty*price) and snapped to tier 0.00
+ORD-009952,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.05,Calculated 1 - sales/(qty*price) and snapped to tier 0.05
+ORD-003162,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.2,Calculated 1 - sales/(qty*price) and snapped to tier 0.20
+ORD-001256,discount,IMPUTE_DISCOUNT_ARITHMETIC,,0.25,Calculated 1 - sales/(qty*price) and snapped to tier 0.25
+ORD-009829,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-005607,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009923,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-002315,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-005905,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-002942,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-000121,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-005728,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-001254,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-000013,quantity,IMPUTE_QUANTITY_ARITHMETIC,,7,Inverted sales formula: sales / (price * (1 - disc)) rounded to 7
+ORD-011674,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-005522,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-000720,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009540,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-003384,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-001906,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-002832,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-010670,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-006249,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-007897,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-000337,quantity,IMPUTE_QUANTITY_ARITHMETIC,,11,Inverted sales formula: sales / (price * (1 - disc)) rounded to 11
+ORD-011046,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-003908,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-003801,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-006339,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-001589,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-008008,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-000283,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007726,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-011491,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-004240,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-006292,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-007498,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007777,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007186,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-009891,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-005002,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-001001,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-007974,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-000954,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-010685,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-005291,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-003718,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-007695,quantity,IMPUTE_QUANTITY_ARITHMETIC,,500,Inverted sales formula: sales / (price * (1 - disc)) rounded to 500
+ORD-003988,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-001905,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-005506,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-006837,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-004917,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-003581,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-001274,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009727,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-004654,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-000526,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-011230,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-004233,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-008900,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-007433,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-002929,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-008563,quantity,IMPUTE_QUANTITY_ARITHMETIC,,6,Inverted sales formula: sales / (price * (1 - disc)) rounded to 6
+ORD-008890,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-002406,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-009418,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-001659,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-000989,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-003851,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-009299,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-003076,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-002449,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009715,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-004197,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-000284,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-008495,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-011534,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-000456,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007853,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-007199,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-004593,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-010851,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-006071,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-005597,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-006076,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-005578,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-009823,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-008425,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007232,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007388,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009882,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-009729,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-000568,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-007059,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-009378,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-004609,quantity,IMPUTE_QUANTITY_ARITHMETIC,,6,Inverted sales formula: sales / (price * (1 - disc)) rounded to 6
+ORD-006568,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-004663,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-001967,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-008911,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-011032,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-005043,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-010951,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-011993,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-001884,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-004836,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-005148,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-002532,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-004088,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-006668,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-011057,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-006720,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-001035,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-004905,quantity,IMPUTE_QUANTITY_ARITHMETIC,,3,Inverted sales formula: sales / (price * (1 - disc)) rounded to 3
+ORD-011584,quantity,IMPUTE_QUANTITY_ARITHMETIC,,5,Inverted sales formula: sales / (price * (1 - disc)) rounded to 5
+ORD-008886,quantity,IMPUTE_QUANTITY_ARITHMETIC,,4,Inverted sales formula: sales / (price * (1 - disc)) rounded to 4
+ORD-007111,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-008720,quantity,IMPUTE_QUANTITY_ARITHMETIC,,2,Inverted sales formula: sales / (price * (1 - disc)) rounded to 2
+ORD-003710,quantity,IMPUTE_QUANTITY_ARITHMETIC,,1,Inverted sales formula: sales / (price * (1 - disc)) rounded to 1
+ORD-004712,record,DROP_UNRECOVERABLE,"discount=nan, quantity=nan",,Both discount and quantity were missing; cannot mathematically reconstruct
+ORD-005796,record,DROP_UNRECOVERABLE,"discount=nan, quantity=nan",,Both discount and quantity were missing; cannot mathematically reconstruct
+ORD-006848,record,DROP_UNRECOVERABLE,"discount=nan, quantity=nan",,Both discount and quantity were missing; cannot mathematically reconstruct
+ORD-007363,record,DROP_UNRECOVERABLE,"discount=nan, quantity=nan",,Both discount and quantity were missing; cannot mathematically reconstruct
+ORD-006706,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007390,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-003344,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007353,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-004731,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-005540,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-003245,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-011855,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-009236,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-006523,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-007516,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009292,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-000252,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-002987,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006492,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-011723,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009565,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006064,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-001694,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006823,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-008572,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002095,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-011313,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-002261,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-008875,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005448,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-007878,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-005520,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-001541,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005377,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-006875,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000552,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002284,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-001775,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005877,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007034,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005977,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002270,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-011231,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001249,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007341,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005422,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002405,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006249,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002530,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000003,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008139,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003518,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-005187,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-010278,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008948,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002989,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-005006,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010496,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003104,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004508,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007726,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-008198,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001606,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-011692,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000905,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003147,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000786,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010576,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006756,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006371,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-010835,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-009769,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-000318,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006924,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004393,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009672,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010198,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-002787,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000380,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007895,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000445,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010999,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010103,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001126,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009266,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000473,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006421,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-011494,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002187,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007785,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000578,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009767,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-010237,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-007881,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-009049,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001104,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002618,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-001588,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008345,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006063,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007088,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-000705,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-003629,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002328,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006715,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010708,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009201,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011788,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-010640,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011007,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005409,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002238,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004544,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-003338,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-011301,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001289,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-010801,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-009614,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-011485,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003948,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-004124,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008364,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-000063,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010844,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000192,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002681,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-006787,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-005563,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007504,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-002209,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005833,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000981,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-011680,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-004421,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008611,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000777,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010818,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001980,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-011361,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-001415,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-008200,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000298,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005014,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001274,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-011577,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-002344,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001335,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-003218,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011718,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-001881,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009853,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-000236,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-008851,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004848,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009325,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-011953,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004233,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000551,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001499,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004329,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006781,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000711,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002606,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001470,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002136,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010687,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003617,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011523,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-010977,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-004885,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-007805,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008350,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-004078,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009644,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002585,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008979,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000633,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007730,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007670,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001221,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007893,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-010932,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-000187,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006430,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005665,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010882,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000779,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009495,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009886,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000022,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-011179,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-007686,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008825,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009186,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000150,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002293,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008093,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004743,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008205,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-002773,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003564,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006416,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006406,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-009224,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003242,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-010768,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004543,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-006636,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009985,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002378,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006209,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-001119,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008039,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-000674,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011925,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-004325,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-009808,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000742,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-009935,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009217,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009311,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-009243,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-002047,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000987,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-010567,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-002583,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-010489,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007698,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000096,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001222,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-001689,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008016,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008703,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004203,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003565,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002163,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004881,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-009085,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-003139,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000826,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001623,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-001039,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006660,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-008339,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-010200,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-011744,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007851,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-004808,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007059,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-003881,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-004632,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009814,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-001498,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-002822,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004387,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009716,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-009040,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-005132,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-004717,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001423,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-006445,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-001220,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-007608,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003271,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005005,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000311,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-004604,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-005805,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-003754,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007307,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-005223,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003589,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-007651,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000290,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008739,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000592,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006843,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-003278,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-000080,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-003207,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-002660,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-006810,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-001621,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000055,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-006383,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-011451,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-009330,ship_days,IMPUTE_REGIONAL_MEDIAN,,6.0,Regional median shipping days for Central (6.0 days)
+ORD-008679,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-008494,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-007464,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-009077,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-002329,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-000286,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002011,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-002753,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-000339,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-002138,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for North (4.0 days)
+ORD-007655,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008103,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for East (4.0 days)
+ORD-007430,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-011842,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008326,ship_days,IMPUTE_REGIONAL_MEDIAN,,4.0,Regional median shipping days for South (4.0 days)
+ORD-001256,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-006766,ship_days,IMPUTE_REGIONAL_MEDIAN,,3.0,Regional median shipping days for West (3.0 days)
+ORD-008308,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=23854.0, profit=8127.0","qty=2, sales=477.08, profit=143.46",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-005647,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=350.0, sales=21087.5, profit=10034.5","qty=3, sales=180.75, profit=78.78",Quantity 350.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-003912,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=50.0, sales=11343.0, profit=2993.5","qty=2, sales=453.72, profit=101.59",Quantity 50.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-006437,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=50.0, sales=3001.78, profit=1233.28","qty=2, sales=120.07, profit=49.33",Quantity 50.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-005484,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=150.0, sales=8121.0, profit=3348.0","qty=3, sales=162.42, profit=60.46",Quantity 150.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-011807,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=26086.5, profit=2170.5","qty=1, sales=260.87, profit=21.71",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 1
+ORD-005451,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=400.0, sales=22620.0, profit=10148.0","qty=3, sales=169.65, profit=76.11",Quantity 400.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-005548,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=900.0, sales=48285.0, profit=21015.0","qty=3, sales=160.95, profit=70.05",Quantity 900.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-003004,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=1152.0, profit=382.0","qty=3, sales=34.56, profit=10.08",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-006833,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=700.0, sales=33087.95, profit=11100.95","qty=3, sales=141.81, profit=29.14",Quantity 700.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-008038,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=200.0, sales=51662.0, profit=19664.0","qty=2, sales=516.62, profit=175.98",Quantity 200.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-007695,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=500.0, sales=28405.0, profit=12410.0","qty=3, sales=170.43, profit=67.64",Quantity 500.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-003914,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=150.0, sales=3528.9, profit=1907.4","qty=3, sales=70.58, profit=35.33",Quantity 150.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-003090,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=37248.3, profit=5070.3","qty=2, sales=744.97, profit=101.41",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-006570,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=200.0, sales=35824.8, profit=-9931.2","qty=1, sales=179.12, profit=-56.82",Quantity 200.0 exceeded threshold 20; replaced with subcategory median 1
+ORD-004460,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=200.0, sales=10774.0, profit=5130.0","qty=2, sales=107.74, profit=51.3",Quantity 200.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-004474,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=24401.8, profit=1015.8","qty=1, sales=244.02, profit=-21.56",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 1
+ORD-008752,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=500.0, sales=6204.0, profit=2649.0","qty=3, sales=37.22, profit=15.89",Quantity 500.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-003786,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=300.0, sales=7974.0, profit=4623.0","qty=3, sales=79.74, profit=46.23",Quantity 300.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-002075,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=200.0, sales=8160.6, profit=2200.6","qty=2, sales=81.61, profit=18.75",Quantity 200.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-010141,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=250.0, sales=4420.0, profit=1680.0","qty=4, sales=70.72, profit=24.05",Quantity 250.0 exceeded threshold 20; replaced with subcategory median 4
+ORD-003726,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=24569.0, profit=7690.0","qty=2, sales=491.38, profit=134.14",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-007645,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=150.0, sales=43390.8, profit=10488.3","qty=2, sales=578.54, profit=116.7",Quantity 150.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-011165,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=500.0, sales=27965.0, profit=11195.0","qty=3, sales=167.79, profit=67.17",Quantity 500.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-008061,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=400.0, sales=6120.8, profit=1920.8","qty=4, sales=61.21, profit=11.25",Quantity 400.0 exceeded threshold 20; replaced with subcategory median 4
+ORD-007062,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=300.0, sales=3979.8, profit=1771.8","qty=3, sales=39.8, profit=17.72",Quantity 300.0 exceeded threshold 20; replaced with subcategory median 3
+ORD-002399,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=100.0, sales=23613.0, profit=7904.0","qty=2, sales=472.26, profit=158.08",Quantity 100.0 exceeded threshold 20; replaced with subcategory median 2
+ORD-008212,quantity_and_financials,CORRECT_ENTRY_OUTLIER,"qty=50.0, sales=12233.2, profit=1306.7","qty=2, sales=489.33, profit=32.7",Quantity 50.0 exceeded threshold 20; replaced with subcategory median 2

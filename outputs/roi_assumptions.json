@@ -1,0 +1,204 @@
+{
+  "schema_version": "4.0.0",
+  "generated_at": "2026-10-19T00:09:07.818017",
+  "pipeline_stage": "STAGE_4_VALIDATED_ROI_ENGINE",
+  "caution": "Assumptions labelled USER_SUPPLIED or HYPOTHETICAL cannot be verified from the historical dataset alone. They represent management judgements, industry estimates, or negotiation targets. Observational associations (e.g., discount -> margin, shipping delay -> return rate) do NOT prove causality. Do NOT treat projections as guaranteed forecasts.",
+  "data_verified_inputs": {
+    "baseline_2025_revenue": {
+      "value": 1400396.8,
+      "source": "DATA_VERIFIED",
+      "note": "Exact 2025 revenue from metrics.json"
+    },
+    "baseline_2025_profit": {
+      "value": 167087.95,
+      "source": "DATA_VERIFIED",
+      "note": "Exact 2025 profit from metrics.json"
+    },
+    "baseline_2025_margin_pct": {
+      "value": 11.93,
+      "source": "DATA_VERIFIED",
+      "note": "Exact 2025 weighted profit margin from metrics.json"
+    },
+    "baseline_2025_orders": {
+      "value": 4978,
+      "source": "DATA_VERIFIED",
+      "note": "Exact 2025 order count from metrics.json"
+    },
+    "marketplace_channel_fee_pct": {
+      "value": 13.0,
+      "source": "DATA_VERIFIED",
+      "note": "From data_cleaning.py FEE_STRUCTURE"
+    },
+    "online_channel_fee_pct": {
+      "value": 4.0,
+      "source": "DATA_VERIFIED",
+      "note": "From data_cleaning.py FEE_STRUCTURE"
+    },
+    "retail_channel_fee_pct": {
+      "value": 0.0,
+      "source": "DATA_VERIFIED",
+      "note": "From data_cleaning.py FEE_STRUCTURE"
+    },
+    "late_delivery_return_rate_pct": {
+      "value": 14.91,
+      "source": "DATA_VERIFIED",
+      "note": "From H3 hypothesis test in metrics.json"
+    },
+    "ontime_delivery_return_rate_pct": {
+      "value": 4.78,
+      "source": "DATA_VERIFIED",
+      "note": "From H3 hypothesis test in metrics.json"
+    },
+    "n_active_2024_customers": {
+      "value": 1003,
+      "source": "DATA_VERIFIED",
+      "note": "Active purchasing accounts in 2024 from metrics.json"
+    },
+    "customer_retention_2024_to_2025_pct": {
+      "value": 49.65,
+      "source": "DATA_VERIFIED",
+      "note": "Empirical cohort retention from metrics.json"
+    },
+    "central_region_late_rate_pct": {
+      "value": 58.41,
+      "source": "DATA_VERIFIED",
+      "note": "Empirical Central region late shipping rate from metrics.json"
+    },
+    "discount_cap_threshold": {
+      "value": 0.2,
+      "source": "DATA_VERIFIED",
+      "note": "Empirical discount cliff: >20% band has negative profit (-$40,094 in 2025)"
+    }
+  },
+  "user_supplied_inputs": {
+    "r1_order_retention_conservative": {
+      "value": 0.55,
+      "source": "USER_SUPPLIED",
+      "note": "Fraction of >20% discount orders retained at 20% cap (Conservative)"
+    },
+    "r1_order_retention_base": {
+      "value": 0.7,
+      "source": "USER_SUPPLIED",
+      "note": "Fraction of >20% discount orders retained at 20% cap (Base)"
+    },
+    "r1_order_retention_optimistic": {
+      "value": 0.8,
+      "source": "USER_SUPPLIED",
+      "note": "Fraction of >20% discount orders retained at 20% cap (Optimistic)"
+    },
+    "r1_one_time_cost": {
+      "value": 10000.0,
+      "source": "USER_SUPPLIED",
+      "note": "One-time cost: policy rollout, pricing system config, training"
+    },
+    "r1_annual_opex": {
+      "value": 4000.0,
+      "source": "USER_SUPPLIED",
+      "note": "Recurring annual guardrail maintenance and audit cost ($333.33/mo)"
+    },
+    "r2_marketplace_discount_cap": {
+      "value": 0.1,
+      "source": "USER_SUPPLIED",
+      "note": "Promotional discount cap on Marketplace channel"
+    },
+    "r2_marketplace_order_retention_base": {
+      "value": 0.75,
+      "source": "USER_SUPPLIED",
+      "note": "Fraction of Marketplace >10% discount orders retained at 10% cap (Base)"
+    },
+    "r2_one_time_cost": {
+      "value": 12000.0,
+      "source": "USER_SUPPLIED",
+      "note": "Contract renegotiation, channel catalog repricing, and integration setup"
+    },
+    "r2_annual_opex": {
+      "value": 6000.0,
+      "source": "USER_SUPPLIED",
+      "note": "Recurring annual channel account management ($500.00/mo)"
+    },
+    "r3_central_late_rate_target_base": {
+      "value": 0.15,
+      "source": "USER_SUPPLIED",
+      "note": "Target late rate for Central region following 3PL SLA overhaul (Base: 15%)"
+    },
+    "r3_return_handling_cost_pct_of_sales": {
+      "value": 0.05,
+      "source": "USER_SUPPLIED",
+      "note": "Estimated return handling expense (5% of order sales; no cost data in raw CSV)"
+    },
+    "r3_retention_uplift_pp_base": {
+      "value": 4.35,
+      "source": "USER_SUPPLIED",
+      "note": "Annual retention uplift target: 49.65% -> 54.0% (+4.35pp in Base)"
+    },
+    "r3_avg_retained_customer_revenue_base": {
+      "value": 700.0,
+      "source": "USER_SUPPLIED",
+      "note": "SURVIVORSHIP BIAS WARNING: Historical repeat customers spent ~$1,292/year. A 54% haircut ($700) is applied to reflect lower spending from marginally-saved churners. Tested range: $500 to $1,000."
+    },
+    "r3_one_time_cost": {
+      "value": 12000.0,
+      "source": "USER_SUPPLIED",
+      "note": "3PL vendor rebid, carrier API integration, loyalty program setup"
+    },
+    "r3_annual_opex": {
+      "value": 9000.0,
+      "source": "USER_SUPPLIED",
+      "note": "Carrier SLA premium fee and loyalty rewards operational cost ($750.00/mo)"
+    }
+  },
+  "hypothetical_inputs": {
+    "r2_marketplace_fee_reduction_pp_base": {
+      "value": 1.0,
+      "source": "HYPOTHETICAL",
+      "note": "Assumes a 1pp reduction in Marketplace commission fee (13% -> 12%). Entirely speculative volume negotiation target. Conservative assumes 0pp (fails)."
+    }
+  },
+  "scenario_multipliers": {
+    "Conservative": {
+      "r1_order_retention": 0.55,
+      "r2_marketplace_order_retention": 0.6,
+      "r2_fee_reduction_pp": 0.0,
+      "r3_retention_uplift_pp": 2.0,
+      "r3_avg_retained_revenue": 500.0,
+      "r3_central_late_rate_target": 0.25,
+      "r3_other_improvement_pct": 0.05,
+      "r3_return_rate_if_late": 0.12,
+      "cost_multiplier": 1.2,
+      "launch_delay_months": 2
+    },
+    "Base": {
+      "r1_order_retention": 0.7,
+      "r2_marketplace_order_retention": 0.75,
+      "r2_fee_reduction_pp": 1.0,
+      "r3_retention_uplift_pp": 4.35,
+      "r3_avg_retained_revenue": 700.0,
+      "r3_central_late_rate_target": 0.15,
+      "r3_other_improvement_pct": 0.1,
+      "r3_return_rate_if_late": 0.1491,
+      "cost_multiplier": 1.0,
+      "launch_delay_months": 0
+    },
+    "Optimistic": {
+      "r1_order_retention": 0.8,
+      "r2_marketplace_order_retention": 0.85,
+      "r2_fee_reduction_pp": 2.0,
+      "r3_retention_uplift_pp": 7.0,
+      "r3_avg_retained_revenue": 1000.0,
+      "r3_central_late_rate_target": 0.1,
+      "r3_other_improvement_pct": 0.2,
+      "r3_return_rate_if_late": 0.18,
+      "cost_multiplier": 0.9,
+      "launch_delay_months": 0
+    }
+  },
+  "model_limitations": [
+    "All cash flows are pre-tax and undiscounted by default. 10% annual WACC NPV is provided.",
+    "Observational associations do NOT prove causal intervention effectiveness.",
+    "Order price-elasticity retention rates (r1, r2) are management assumptions requiring A/B testing validation.",
+    "Marketplace commission fee reduction is binary and speculative.",
+    "Repeat customer spending is subject to survivorship bias; marginal churners may spend less.",
+    "Seasonality and market macroeconomic growth are not assumed; 2025 order volume is held constant.",
+    "Rec 3 on a standalone basis fails to break even over 36 months in Base and Conservative scenarios due to $9,000 annual opex exceeding standalone annual benefits."
+  ]
+}

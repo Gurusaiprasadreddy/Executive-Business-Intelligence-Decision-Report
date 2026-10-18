@@ -1,0 +1,22 @@
+# Executive Decision Report & Capstone Presentation
+# Pinned project dependencies for Stage 2 (Data Quality & Modular Pipeline)
+# Python 3.12+
+
+# Core Data Manipulation and Numerical Computing
+pandas==2.2.2
+numpy==2.3.5
+scipy==1.18.1
+
+# Visualization & Interactive UI
+matplotlib==3.9.0
+plotly==6.9.0
+streamlit==1.38.0
+
+# Testing & Quality Assurance
+pytest==9.1.1
+
+# Document Parsing & Report Generation
+pdfplumber==0.11.10
+reportlab==5.0.1
+python-pptx==1.0.2
+openpyxl==3.1.5

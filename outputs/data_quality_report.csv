@@ -1,0 +1,13 @@
+Check_Category,Check_Name,Level,Status,Observed_Value,Expected_Value,Details
+Structural,Missing Values Count,CRITICAL,PASS,0,0,Clean dataset must contain zero null or NaT values
+Structural,Order ID Uniqueness,CRITICAL,PASS,0,0,Each row must represent a strictly unique order ID
+Structural,Required Schema Completeness,CRITICAL,PASS,27 columns (missing 0),All 27 required columns,All required schema columns present
+Pipeline Reconciliation,Row Count Arithmetic,CRITICAL,PASS,11996,11996 (raw: 12400 - dups: 400 - unrecoverable: 4),Clean row count must match raw count minus duplicates and dropped unrecoverables
+Domain Constraints,Date Range Validity,CRITICAL,PASS,2023-01-01 00:00:00 to 2025-12-31 00:00:00,2023-01-01 to 2025-12-31,Order dates must fall within the 3-year study horizon
+Domain Constraints,Quantity Range & Integer Check,CRITICAL,PASS,"min=1, max=12",1 <= quantity <= 20 (integer),All quantities must be valid order line integers without entry errors
+Domain Constraints,Discount Range Check,CRITICAL,PASS,"min=0.00, max=0.50",0.00 <= discount <= 0.50,Discount must be within legitimate commercial discount bounds
+Domain Constraints,Unit Price and Cost Positivity,CRITICAL,PASS,"price_min=8.35, cost_min=4.15",Both > 0,Price and cost fields must be positive non-zero values
+Arithmetic Consistency,Sales Formula Consistency (<2% dev),CRITICAL,PASS,0 rows deviating >2% (max dev: $0.0600),0 rows deviating >2%,Sales must conform to quantity * unit_price * (1 - discount)
+Arithmetic Consistency,Profit Formula Consistency (<$0.10 dev),CRITICAL,PASS,0 rows with abs dev > $0.10 (max dev: $0.0456),0 rows deviating > $0.10,Profit must match sales * (1 - fee) - quantity * unit_cost (within cent rounding)
+Feature Engineering,Derived Feature Logic,CRITICAL,PASS,"year=True, margin=True, is_late=True, is_loss=True",All derived features strictly consistent with parent columns,"Validates year, profit_margin, is_late, and is_loss_order column integrity"
+Business Metrics,Loss-Making Orders Count,WARNING,INFO,1579 orders (13.2%),Monitored baseline,Orders where recorded profit is negative

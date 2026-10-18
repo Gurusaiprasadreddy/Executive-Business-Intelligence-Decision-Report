@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "project_name": "Executive Decision Report & Capstone Presentation",
+    "schema_version": "2.0.0",
+    "generated_at": "2026-10-19T00:09:04.794695",
+    "pipeline_stage": "STAGE_2_DATA_QUALITY_AND_MODULAR_FOUNDATION",
+    "source_raw_file": "Dataset/raw_sales_data.csv",
+    "source_raw_sha256": "1685e689491bd2d4751528030de2bd05ec85408578ef1de1f42c449b02172b83",
+    "clean_dataset_sha256": "295e02511af8d63b537bb309b1cecf7181694bad28cd4ed362e38e58f1183a8e"
+  },
+  "validation_summary": {
+    "overall_validation_status": "VALIDATED",
+    "total_checks": 12,
+    "passed_checks": 11,
+    "failed_checks": 0,
+    "info_warnings": 1
+  },
+  "reporting_period": {
+    "start_date": "2023-01-01",
+    "end_date": "2025-12-31",
+    "years_covered": [
+      2023,
+      2024,
+      2025
+    ]
+  },
+  "kpi_definitions": {
+    "Revenue": {
+      "unit": "USD ($)",
+      "formula": "Sum of sales, where sales = quantity * unit_price * (1 - discount)",
+      "interpretation": "Top-line gross recognized order revenue post-discount"
+    },
+    "Profit": {
+      "unit": "USD ($)",
+      "formula": "Sum of profit, where profit = sales * (1 - channel_fee) - quantity * unit_cost",
+      "interpretation": "Contribution profit after COGS and channel platform fees"
+    },
+    "Weighted_Profit_Margin": {
+      "unit": "Percentage (%)",
+      "formula": "(Total Profit / Total Revenue) * 100",
+      "interpretation": "Authoritative portfolio contribution margin. Avoids simple average skew."
+    },
+    "AOV": {
+      "unit": "USD ($)",
+      "formula": "Total Revenue / Unique Order Count",
+      "interpretation": "Average Order Value across transactions"
+    },
+    "Customer_Retention_Rate": {
+      "unit": "Percentage (%)",
+      "formula": "|Active Customers in Year N and Year N+1| / |Active Customers in Year N| * 100",
+      "interpretation": "Calendar year repeat purchasing cohort rate"
+    }
+  },
+  "annual_metrics": [
+    {
+      "Year": 2023,
+      "Revenue": 896588.03,
+      "Profit": 138397.72,
+      "Weighted_Profit_Margin_%": 15.44,
+      "Record_Count": 3079,
+      "Unique_Orders": 3079,
+      "Unique_Customers": 524,
+      "AOV": 291.19,
+      "Return_Rate_%": 6.11,
+      "Late_Rate_%": 21.47
+    },
+    {
+      "Year": 2024,
+      "Revenue": 1076643.61,
+      "Profit": 152572.32,
+      "Weighted_Profit_Margin_%": 14.17,
+      "Record_Count": 3939,
+      "Unique_Orders": 3939,
+      "Unique_Customers": 1003,
+      "AOV": 273.33,
+      "Return_Rate_%": 7.49,
+      "Late_Rate_%": 23.33
+    },
+    {
+      "Year": 2025,
+      "Revenue": 1400396.8,
+      "Profit": 167087.95,
+      "Weighted_Profit_Margin_%": 11.93,
+      "Record_Count": 4978,
+      "Unique_Orders": 4978,
+      "Unique_Customers": 1376,
+      "AOV": 281.32,
+      "Return_Rate_%": 7.37,
+      "Late_Rate_%": 23.1
+    },
+    {
+      "Year": "Total / Overall",
+      "Revenue": 3373628.44,
+      "Profit": 458057.99,
+      "Weighted_Profit_Margin_%": 13.58,
+      "Record_Count": 11996,
+      "Unique_Orders": 11996,
+      "Unique_Customers": 2116,
+      "AOV": 281.23,
+      "Return_Rate_%": 7.09,
+      "Late_Rate_%": 22.76
+    }
+  ],
+  "cleaning_statistics": {
+    "raw_row_count": 12400,
+    "exact_duplicates_removed": 400,
+    "label_standardization": {
+      "region": {
+        "before_variants": 29,
+        "after_variants": 5
+      },
+      "segment": {
+        "before_variants": 9,
+        "after_variants": 3
+      },
+      "category": {
+        "before_variants": 18,
+        "after_variants": 3
+      }
+    },
+    "missing_cells_before_imputation": 1260,
+    "category_imputed": 60,
+    "region_customer_mode_imputed": 227,
+    "region_global_mode_imputed": 13,
+    "segment_customer_mode_imputed": 173,
+    "segment_global_mode_imputed": 7,
+    "discount_imputed": 356,
+    "quantity_imputed": 116,
+    "rows_dropped_unrecoverable": 4,
+    "ship_days_imputed_count": 300,
+    "quantity_outliers_corrected": 28,
+    "clean_row_count": 11996,
+    "missing_cells_after_clean": 0,
+    "sales_iqr_outliers_count": 407
+  },
+  "customer_cohorts": {
+    "retention_2023_to_2024_%": 54.39,
+    "retention_2024_to_2025_%": 49.65,
+    "top_20_percent_customer_revenue_share_%": 66.08,
+    "repeat_customer_order_share_%": 94.95,
+    "aov_repeat_customer_$": 279.93,
+    "aov_onetime_customer_$": 305.56
+  },
+  "channel_performance": [
+    {
+      "channel": "Marketplace",
+      "orders": 2660,
+      "revenue": 684070.56,
+      "profit": -17436.8,
+      "revenue_share_%": 20.28,
+      "weighted_margin_%": -2.55
+    },
+    {
+      "channel": "Online",
+      "orders": 5467,
+      "revenue": 1530616.08,
+      "profit": 229616.18,
+      "revenue_share_%": 45.37,
+      "weighted_margin_%": 15.0
+    },
+    {
+      "channel": "Retail Store",
+      "orders": 3869,
+      "revenue": 1158941.8,
+      "profit": 245878.61,
+      "revenue_share_%": 34.35,
+      "weighted_margin_%": 21.22
+    }
+  ],
+  "discount_performance": [
+    {
+      "discount_band": "0%",
+      "orders": 3229,
+      "revenue": 1009126.0,
+      "profit": 290054.22,
+      "loss_orders": 4,
+      "loss_order_share_%": 0.12,
+      "weighted_margin_%": 28.74
+    },
+    {
+      "discount_band": "1-10%",
+      "orders": 2325,
+      "revenue": 683633.3,
+      "profit": 152955.79,
+      "loss_orders": 19,
+      "loss_order_share_%": 0.82,
+      "weighted_margin_%": 22.37
+    },
+    {
+      "discount_band": "11-20%",
+      "orders": 2931,
+      "revenue": 824434.22,
+      "profit": 97177.44,
+      "loss_orders": 215,
+      "loss_order_share_%": 7.34,
+      "weighted_margin_%": 11.79
+    },
+    {
+      "discount_band": "21-30%",
+      "orders": 1950,
+      "revenue": 504928.86,
+      "profit": -2852.46,
+      "loss_orders": 487,
+      "loss_order_share_%": 24.97,
+      "weighted_margin_%": -0.56
+    },
+    {
+      "discount_band": ">30%",
+      "orders": 1561,
+      "revenue": 351506.06,
+      "profit": -79277.0,
+      "loss_orders": 854,
+      "loss_order_share_%": 54.71,
+      "weighted_margin_%": -22.55
+    }
+  ],
+  "category_performance": [
+    {
+      "category": "Furniture",
+      "orders": 3263,
+      "revenue": 1293350.39,
+      "profit": 157456.38,
+      "weighted_margin_%": 12.17
+    },
+    {
+      "category": "Office Supplies",
+      "orders": 5499,
+      "revenue": 432491.63,
+      "profit": 152228.58,
+      "weighted_margin_%": 35.2
+    },
+    {
+      "category": "Technology",
+      "orders": 3234,
+      "revenue": 1647786.42,
+      "profit": 148373.03,
+      "weighted_margin_%": 9.0
+    }
+  ],
+  "regional_performance": [
+    {
+      "region": "Central",
+      "orders": 981,
+      "revenue": 298381.55,
+      "profit": 40393.82,
+      "late_orders": 573,
+      "weighted_margin_%": 13.54,
+      "late_rate_%": 58.41
+    },
+    {
+      "region": "East",
+      "orders": 1902,
+      "revenue": 536192.42,
+      "profit": 71004.62,
+      "late_orders": 565,
+      "weighted_margin_%": 13.24,
+      "late_rate_%": 29.71
+    },
+    {
+      "region": "North",
+      "orders": 3132,
+      "revenue": 838042.45,
+      "profit": 115559.55,
+      "late_orders": 585,
+      "weighted_margin_%": 13.79,
+      "late_rate_%": 18.68
+    },
+    {
+      "region": "South",
+      "orders": 2163,
+      "revenue": 617347.85,
+      "profit": 85833.27,
+      "late_orders": 554,
+      "weighted_margin_%": 13.9,
+      "late_rate_%": 25.61
+    },
+    {
+      "region": "West",
+      "orders": 3818,
+      "revenue": 1083664.17,
+      "profit": 145266.73,
+      "late_orders": 453,
+      "weighted_margin_%": 13.41,
+      "late_rate_%": 11.86
+    }
+  ],
+  "loss_orders": {
+    "count": 1579,
+    "share_of_orders_%": 13.16,
+    "total_dollar_loss": -129119.31,
+    "worst_loss_order_$": -952.03
+  },
+  "statistical_hypothesis_tests": {
+    "H1_discount_margin_impact": {
+      "hypothesis": "Orders with >20% discount yield significantly lower profit margin than <=20%",
+      "sample_high_disc_n": 3511,
+      "sample_low_disc_n": 8485,
+      "mean_margin_high_disc_%": 4.87,
+      "mean_margin_low_disc_%": 33.61,
+      "t_statistic": -68.0162,
+      "p_value": 0.0,
+      "verdict": "SUPPORTED"
+    },
+    "H2_marketplace_channel_fee_drag": {
+      "hypothesis": "Marketplace orders have significantly lower margins due to 13% commission fee",
+      "sample_marketplace_n": 2660,
+      "sample_other_n": 9336,
+      "mean_margin_marketplace_%": 9.64,
+      "mean_margin_other_%": 29.63,
+      "t_statistic": -41.6283,
+      "p_value": 0.0,
+      "verdict": "SUPPORTED"
+    },
+    "H3_shipping_delay_return_correlation": {
+      "hypothesis": "Late deliveries (>5 days) suffer significantly higher return rates than on-time",
+      "sample_late_n": 2730,
+      "sample_ontime_n": 9266,
+      "return_rate_late_%": 14.91,
+      "return_rate_ontime_%": 4.78,
+      "t_statistic": 14.1262,
+      "p_value": 4.795928206799348e-44,
+      "verdict": "SUPPORTED"
+    }
+  },
+  "unresolved_exceptions_summary": {
+    "total_unresolved_records": 1018,
+    "breakdown_by_category": {
+      "PROFIT_ROUNDING_DEVIATION": 607,
+      "HIGH_VALUE_SALE_OUTLIER": 407,
+      "DROPPED_UNRECOVERABLE": 4
+    },
+    "breakdown_by_severity": {
+      "LOW": 607,
+      "INFO": 407,
+      "CRITICAL": 4
+    }
+  }
+}

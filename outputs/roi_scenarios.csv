@@ -1,0 +1,13 @@
+scenario,recommendation,annual_benefit_run_rate,annual_revenue_delta,annual_contrib_profit_delta,one_time_cost,annual_opex,total_cost_36m,net_benefit_36m,roi_pct,payback_month
+Conservative,Rec 1 -- Discount Guardrails,60101.69,38991.96,60101.69,12000.0,4799.95,25599.86,139679.79,545.63,6
+Conservative,Rec 2 -- Marketplace Margin Repair,19754.79,3947.75,19754.79,14400.0,7200.0,33600.0,14963.87,44.54,22
+Conservative,Rec 3 -- Delivery SLA & Customer Retention,2597.25,10030.0,2597.25,14400.0,10800.0,40500.0,-35089.07,-86.64,Never (>36m)
+Conservative,TOTAL,82453.74,52969.71,82453.73,40800.0,22799.95,99699.86,119554.59,119.91,12
+Base,Rec 1 -- Discount Guardrails,66331.86,58959.97,66331.86,10000.0,3999.96,21999.88,171468.04,779.4,3
+Base,Rec 2 -- Marketplace Margin Repair,29352.04,20869.23,29352.04,12000.0,6000.0,29000.0,48049.1,165.69,12
+Base,Rec 3 -- Delivery SLA & Customer Retention,7313.52,30541.35,7313.52,12000.0,9000.0,35250.0,-18794.58,-53.32,Never (>36m)
+Base,TOTAL,102997.42,110370.55,102997.42,34000.0,18999.96,86249.88,200722.56,232.72,8
+Optimistic,Rec 1 -- Discount Guardrails,69020.55,67584.26,69020.55,9000.0,3599.96,19799.89,181510.04,916.72,3
+Optimistic,Rec 2 -- Marketplace Margin Repair,36391.93,27989.42,36391.93,10800.0,5400.0,26100.0,69428.82,266.01,10
+Optimistic,Rec 3 -- Delivery SLA & Customer Retention,16379.66,70210.0,16379.66,10800.0,8100.0,31725.0,5129.25,16.17,29
+Optimistic,TOTAL,121792.15,165783.68,121792.14,30600.0,17099.96,77624.89,256068.11,329.88,5

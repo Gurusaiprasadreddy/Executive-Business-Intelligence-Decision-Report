@@ -1,0 +1,10 @@
+Stage_Or_Metric,Record_Count,Revenue_$,Profit_$,Weighted_Margin_%,Delta_Revenue_$,Delta_Profit_$,Notes
+1. Raw Sales Data (All Records),12400,4112441.88,652660.61,15.87,0.0,0.0,"Original uncleaned input dataset with exact duplicates, text formatting, and outliers"
+2. Exact Duplicates Removed,400,185341.1,36702.15,19.8,-185341.1,-36702.15,400 identical order rows removed per deduplication rule
+3. Post-Deduplication Subtotal,12000,3927100.78,615958.46,15.68,-185341.1,-36702.15,"12,000 unique records prior to outlier fixes and imputation"
+4. Dropped Unrecoverable Rows,4,1123.56,288.9,25.71,-1123.56,-288.9,Both discount and quantity were missing; mathematically impossible to impute safely
+5. Quantity Outliers Corrected (>20 units),28,552348.78,157611.57,28.53,-552348.78,-157611.57,28 order lines with entry errors (quantities up to 900) adjusted to subcategory median
+6. Final Cleaned Dataset (2023-2025),11996,3373628.44,458057.99,13.58,-738813.44,-194602.62,"11,996 clean rows fully reconciled and validated"
+7. Final Clean - Year 2023,3079,896588.03,138397.72,15.44,0.0,0.0,"3,079 orders, 524 customers, AOV $291.19"
+8. Final Clean - Year 2024,3939,1076643.61,152572.32,14.17,0.0,0.0,"3,939 orders, 1,003 customers, AOV $273.33"
+9. Final Clean - Year 2025,4978,1400396.8,167087.95,11.93,0.0,0.0,"4,978 orders, 1,376 customers, AOV $281.32"
